@@ -14,7 +14,7 @@ With Node and Npm installed, install the npm packages required using `npm instal
 
 ## Usage
 
-    npm: npm start --dir="<dir>" --url="<url>" --dryrun=true"
+    npm start --dir="<dir>" --url="<url>" --dryrun=true"
 
 Examples
 
